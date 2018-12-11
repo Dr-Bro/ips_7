@@ -1,4 +1,4 @@
-﻿Сборка начата 11.12.2018 13:00:41.
+﻿Сборка начата 11.12.2018 13:52:55.
      1>Проект "d:\Users\Dr.bro\documents\visual studio 2013\Projects\ips_7\ips_7\ips_7.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt task_lecture_7.cpp
@@ -10,4 +10,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.35
+Затраченное время: 00:00:01.88
